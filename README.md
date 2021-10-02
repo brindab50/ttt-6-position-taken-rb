@@ -19,7 +19,7 @@ Basically, we have the `#position_taken?` method so you don't end up playing wit
 
 ### Validating User Input
 
-The underlying goal of this method is to check, or validate, user input against the current state of the game board. Validating data or user input is a big part of programming. In this particular example of our tic tac toe game, our entire game would break if a user could overwrite board positions that are already filled out with an "X" or an "O". Validations are therefore a necessary part of making our program function the way it is intended.
+The underlying goal of this method is to check, or validate, user input against the current state of the game board. Validating data or user input is a big part of programming. In this particular example of our tic tac toe game, our entire game would break if a user could overrite board positions that are already filled out with an "X" or an "O". Validations are therefore a necessary part of making our program function the way it is intended.
 
 The concept of validations is a common one, and you're likely to encounter it in other programming scenarios.
 
